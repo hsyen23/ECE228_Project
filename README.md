@@ -65,10 +65,10 @@ There are plenty of feature map in one layer (decided by number of channel). For
 # Part three (Experiments with different hyperparameters)
 In this experiment, we set up four different hyperparameters.
 ![GitHub Logo](/image/Parameter_set.JPG)
-## Log(loss) curve on four different sets.
+## Log(loss) curve on four different sets
 ![GitHub Logo](/image/loss_curve.png)
 
-## Sequential output on four different sets.
+## Sequential output on four different sets
 ![GitHub Logo](/image/result_small_image.png)
 
 # Other jupyter notebook (other experiments)
