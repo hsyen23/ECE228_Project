@@ -77,7 +77,7 @@ We choose two different pretrained model to see the influence of different struc
 To run these .ipynb, we need to upgrade pytorch version by following command.
 
 ```
-!pip install --upgrade torchvision==0.12
+pip install --upgrade torchvision==0.12
 ```
 
 ## transfer-EfficientNet.ipynb
