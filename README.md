@@ -70,3 +70,24 @@ In this experiment, we set up four different hyperparameters.
 
 ## Sequential output on four different sets.
 ![GitHub Logo](/image/result_small_image.png)
+
+# Other jupyter notebook (other experiments)
+We choose two different pretrained model to see the influence of different structures.
+
+To run these .ipynb, we need to upgrade pytorch version by following command.
+
+```
+!pip install --upgrade torchvision==0.12
+```
+
+## transfer-EfficientNet.ipynb
+In this part, we use pretrained EfficientNet provided by torchvision.
+
+Procedure is similar to ```NST.ipynb```, therefore, we only show the results here.
+![GitHub Logo](/image/result_efficientnet.png)
+
+## transfer-Convnext.ipynb
+In this part, we use pretrained ConvNeXt provided by torchvision.
+
+Procedure is similar to ```NST.ipynb```, therefore, we only show the results here.
+![GitHub Logo](/image/result_convnext.png)
